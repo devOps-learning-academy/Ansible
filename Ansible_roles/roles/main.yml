@@ -1,0 +1,6 @@
+--- 
+- name: Run nginx from role
+  hosts: localhost
+  become: true
+  roles:
+    - webserver
