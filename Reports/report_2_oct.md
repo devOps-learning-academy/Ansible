@@ -1,0 +1,3 @@
+- Got into rut so unavaible to focus even for 2 hours
+- This is serious issue need to fix this else nothing can be build with this mindset
+- Will try to address the main issue : REMOVE DISTRACTION & INPLANT STUDY DOPAMINE
