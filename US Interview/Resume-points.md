@@ -1,6 +1,23 @@
+# Interview questions:
 
-PROFILE SUMMARY
+- Ansible + Jenkins + K8s + (Terraform)
+- Ansible production issues faced
+- EKS Prod issues faced
+- K8s Prod issues faced
+- Features implmented (Ansible)
+- Features implemented (K8s)
+- Resume line answers
+- Self intro
+- Service now
+- Maven
 
+# Questions to Rajesh
+
+- Servers are hosted in cloud/On-prem
+- What are the actual tasks done using ansible
+- Common tasks or list of tasks to be automated
+
+### PROFILE SUMMARY
 
 Experienced in developing, structuring and managing reusable Ansible playbooks and roles, using tasks, handlers, variables, Jinja2 templates and conditional execution to standardize automation workflows.
 
@@ -26,9 +43,7 @@ Experienced in troubleshooting infrastructure and container-level issues, includ
 
 Good understanding of integrating Ansible, Kubernetes, Jenkins, Docker, Git and AWS into DevOps workflows to automate infrastructure configuration, container deployments and continuous application delivery.
 
-
-
-PREVIOUS PROJECT EXPERIENCE
+### PREVIOUS PROJECT EXPERIENCE
 
 1. Automated infrastructure provisioning and configuration management using ansible playbook to accelrate deployment.
 2. Developed reusable ansible playbook and roles to automate provisioning and configuration and patching of kubernetes cluster across multiple env.
@@ -38,7 +53,3 @@ PREVIOUS PROJECT EXPERIENCE
 6. Implemented application autoscaling by configuring HPA based on CPU and memory utilization metric to handle traffic spikes smoothly
 7. Implemented rolling updates and rollback strategies using kubernetes deployment configuration to ensure zero downtime application upgrades and quick recovery from failures
 8. Optimized container networking by trobleshooting cluster internal DNS issues, service routing and manging ingress/Route controllers for external traffic distribution
-
-
-
-
